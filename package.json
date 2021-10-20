@@ -15,12 +15,11 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "react-scripts start",
     "watch": "nodemon server.js",
-    "client": "cd client && npm start",
-    "install-client": "cd client && npm install",
+    "install-client": "npm i",
     "heroku-postbuild": "npm run install-client && npm run build",
-    "build": "cd client && npm run build"
+    "build": "react-scripts build"
   },
   "engines": {
     "node": "14.x"

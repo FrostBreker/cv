@@ -19,9 +19,9 @@ const Contact = () => {
                         </li>
                         <li>
                             <i className="fas fa-mobile-alt"></i>
-                            <CopyToClipboard text="contact.frostbrekertv@gmail.com">
+                            <CopyToClipboard text="donatienfaraut@gmail.com">
                                 <span className="clickInput" onClick={() => { alert("E-mail copié") }}>
-                                    contact.frostbrekertv@gmail.com
+                                    donatienfaraut@gmail.com
                                 </span>
                             </CopyToClipboard>
                         </li>

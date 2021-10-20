@@ -34,7 +34,7 @@ const OtherSkills = () => {
 
                     <li>
                         <i className="fas fa-check-square"></i>
-                       Figma
+                       Eclipse & Idea
                     </li>
                 </ul>
             </div>
