@@ -16,13 +16,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-<<<<<<< HEAD
     "watch": "nodemon server.js",
-    "install-client": "npm i",
-    "heroku-postbuild": "npm run install-client && npm run build",
-=======
+    "install-client": "npm install",
     "heroku-postbuild": "npm install && npm run build",
->>>>>>> e06b30d7a8add7ba9fa41ff321571e35c9bbbf80
     "build": "react-scripts build"
   },
   "engines": {
