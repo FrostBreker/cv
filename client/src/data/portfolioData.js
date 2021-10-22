@@ -44,4 +44,13 @@ export const portfolioData = [
     info: "Ce projet est un mode minecraft qui fait un backport d'un mierais (Netherite) dans des version de ce jeu qui ne le prosserais pas.",
     picture: './media/project5.png'
   },
+  {
+    id: 6,
+    name: "Baby's Runner",
+    languages: ['C#'],
+    languagesIcons: ['fab fa-c#'],
+    source: 'https://github.com/FrostBreker/babys-runner',
+    info: "Baby's runner est un jeux que j'ai conçus en juin 2020 le jeux consite a incarner un personnage et a completer des niveau avec des quete et des object le jeux a été concu en CSharp.",
+    picture: './media/project6.jpg'
+  },
 ]

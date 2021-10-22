@@ -29,7 +29,7 @@ const OtherSkills = () => {
 
                     <li>
                         <i className="fas fa-check-square"></i>
-                       After Effect
+                        <span>Heroku</span>
                     </li>
 
                     <li>

@@ -18,7 +18,7 @@ const Contact = () => {
                             <span>Paris</span>
                         </li>
                         <li>
-                            <i className="fas fa-mobile-alt"></i>
+                            <i className="fas fa-envelope"></i>
                             <CopyToClipboard text="donatienfaraut@gmail.com">
                                 <span className="clickInput" onClick={() => { alert("E-mail copié") }}>
                                     donatienfaraut@gmail.com
@@ -27,7 +27,7 @@ const Contact = () => {
                         </li>
 
                         <li>
-                            <i className="fas fa-envelope"></i>
+                        <i className="fas fa-mobile-alt"></i>
                             <CopyToClipboard text="06 98 72 05 30">
                                 <span className="clickInput" onClick={() => { alert("Telephone copié") }}>
                                     06 98 72 05 30

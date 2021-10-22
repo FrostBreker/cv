@@ -15,13 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/FrostBreker/cv.git"
   },
-  "author": "",
+  "author": "FrostBreker",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FrostBreker/cv/issues"
   },
   "homepage": "https://github.com/FrostBreker/cv#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
   }
 }
