@@ -15,7 +15,7 @@ const NavBar = () => {
                     <li>
                         <NavLink exact to="/" activeClassName="navActive">
                             <i className="fas fa-home"></i>
-                            <span>Acceuil</span>
+                            <span>Accueil</span>
                         </NavLink>
                     </li>
 
@@ -46,12 +46,6 @@ const NavBar = () => {
                     <li>
                         <a href="https://github.com/FrostBreker" target="_blank" rel="noopener noreferrer">
                             <i className="fab fa-github" />
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="https://www.instagram.com/donatien.faraut/" target="_blank" rel="noopener noreferrer">
-                            <i className="fab fa-instagram" />
                         </a>
                     </li>
                 </ul>

@@ -47,11 +47,6 @@ const Contact = () => {
                             <i className="fab fa-github" />
                             <p>Code source du CV</p>
                         </a>
-
-                        <a href="https://www.instagram.com/donatien.faraut/" target="_blank" rel="noopener noreferrer">
-                            <i className="fab fa-instagram" />
-                            <p>Mon Instagram</p>
-                        </a>
                     </ul>
                 </div>
             </div>

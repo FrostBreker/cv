@@ -8,23 +8,29 @@ const Exeperience = () => {
         <h4>Stagiaire chez Idento</h4>
         <h5>2021</h5>
         <p>
-          J'ai été stagaire chez l'entreprise Idento spécialisé dans l'IAM.
+          J'ai travaillé sur l'implantation des clés FIDO2,
+          la connexion d'une session windows à partir d'un téléphone
+          et un systeme de portabilités conçu en batch.
         </p>
       </div>
 
       <div className="exp-2">
-        <h4>Diplomée chez OpenClassroom</h4>
+        <h4>Diplômé chez OpenClassroom</h4>
         <p>
-          Diplome: Manié les terminaux,
+          Diplôme :  
+          <a href="https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal">
+            Utiliser la ligne de commande dans un terminal
+          </a>
+          
         </p>
         <p>
-          Diplome: C#,
+          Diplôme : C#
         </p>
         <p>
-          Diplome: Java et ses IDE,
+          Diplôme : Java et ses IDE
         </p>
         <p>
-          Diplome: JavaScript.
+          Diplôme : JavaScript
         </p>
       </div>
     </div>

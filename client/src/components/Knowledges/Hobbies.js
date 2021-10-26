@@ -27,17 +27,17 @@ const Hobbies = () => {
 
                 <li className="hobby">
                     <i class="fas fa-fighter-jet"></i>
-                    <span>L'armée</span>
+                    <span>Armée</span>
                 </li>
 
                 <li className="hobby">
                     <i class="fas fa-running"></i>
-                    <span>Le Sport</span>
+                    <span>Sport</span>
                 </li>
 
                 <li className="hobby">
                     <i class="fas fa-money-check-alt"></i>
-                    <span>Bourses</span>
+                    <span>Marchés financiers</span>
                 </li>
             </ul>
         </div>

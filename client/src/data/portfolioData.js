@@ -4,8 +4,7 @@ export const portfolioData = [
     name: 'Pop',
     languages: ['javascript','css', 'react'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt', 'fab fa-react'],
-    source: 'https://github.com/FrostBreker/Pop-SocialNetwork',
-    info: 'Pop est un reseaux social qui sors des GAFAM et qui permet de reunnir tous les resaux sociaux tel que Soundcloud, instagram, facebook, whatssap. Grace a cette outils nous serons libre de nos donnée.',
+    info: 'Pop est un réseau social, en dehors de la structure des GAFAM, qui permet de réunir tous les resaux sociaux tels que Soundcloud, Instagram, Facebook, Whatssap. Grâce a cet outils les utilisateurs conservent la propriété de leurs données.',
     picture: './media/project1.png'
   },
   {
@@ -13,8 +12,7 @@ export const portfolioData = [
     name: 'EcoleDirecte BOT',
     languages: ['javascript', 'discordjs'],
     languagesIcons: ['fab fa-js','fab fa-discord'],
-    source: 'https://github.com/FrostBreker/Ecole-Direct-Bot',
-    info: "Ce BOT discord permet de recupere ses notes, devoirs, retard, moyenne générales, etc a l'aide de simple commandes sur discord.",
+    info: "Ce BOT discord permet de rêcuperer les notes, devoirs, retards, moyenne générales, etc. a l'aide de simples commandes sur Discord.",
     picture: './media/project2.png'
   },
   {
@@ -22,8 +20,7 @@ export const portfolioData = [
     name: 'EcoleDirecte Site',
     languages: ['javascript','css', 'react', 'discordjs'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt', 'fab fa-react', 'fab fa-discord'],
-    source: 'https://github.com/FrostBreker/ec-site-V2',
-    info: "Ce projet a été concu par faciliter l'accebilité au bot EcoleDirecte, on peut y cre un compte le lier à EcoleDirecte, changer sa photo de profil, etc...",
+    info: "Ce projet a été conçu pour faciliter l'accessibilité au bot EcoleDirecte, on peut y créer un compte, le lier à EcoleDirecte, changer la photo de profil, etc.",
     picture: './media/project2.png'
   },
   {
@@ -32,7 +29,7 @@ export const portfolioData = [
     languages: ['C#'],
     languagesIcons: ['fab fa-c#'],
     source: 'https://github.com/FrostBreker/NTNav',
-    info: "NTNav pour No Tracker Navigator, ce projet étais basé sur le principe d'un navigateur qui n'utiliserais pas de trackeur et basé sur le repsect de la vie privée d'autruie.",
+    info: "NTNav pour No Tracker Navigator : ce projet est basé sur le principe d'un navigateur qui n'utiliserait pas de trackeur et permet de respecter la vie privée d'autrui.",
     picture: './media/project4.jpg'
   },
   {
@@ -41,7 +38,7 @@ export const portfolioData = [
     languages: ['java'],
     languagesIcons: ['fab fa-java'],
     source: 'https://github.com/FrostBreker/Netherite-1.7.10',
-    info: "Ce projet est un mode minecraft qui fait un backport d'un mierais (Netherite) dans des version de ce jeu qui ne le prosserais pas.",
+    info: "Ce projet est un mod minecraft qui fait un backport d'un minerai (Netherite) dans des version du jeu qui ne le proposent pas.",
     picture: './media/project5.png'
   },
   {
@@ -50,7 +47,7 @@ export const portfolioData = [
     languages: ['C#'],
     languagesIcons: ['fab fa-c#'],
     source: 'https://github.com/FrostBreker/babys-runner',
-    info: "Baby's runner est un jeux que j'ai conçus en juin 2020 le jeux consite a incarner un personnage et a completer des niveau avec des quete et des object le jeux a été concu en CSharp.",
+    info: "Baby's runner est un jeu que j'ai conçu en juin 2020. Ce jeu consiste à incarner un personnage et à compléter des niveaux avec des quêtes et des objets. Le jeu a été conçu en CSharp.",
     picture: './media/project6.jpg'
   },
 ]

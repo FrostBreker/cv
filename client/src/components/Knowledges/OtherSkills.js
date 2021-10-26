@@ -8,7 +8,7 @@ const OtherSkills = () => {
                 <ul>
                     <li>
                         <i className="fas fa-check-square"></i>
-                        Anglais Courrant
+                        Anglais
                     </li>
 
                     <li>

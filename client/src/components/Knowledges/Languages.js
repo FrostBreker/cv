@@ -4,7 +4,7 @@ import ProgressBar from './ProgressBar';
 
 export default class Languages extends Component {
     state = {
-        languages: [
+        langages: [
             { id: 1, value: "Javascript", xp: 0.3 },
             { id: 2, value: "Java", xp: 1.8 },
             { id: 3, value: "C#", xp: 1 },
@@ -18,13 +18,13 @@ export default class Languages extends Component {
         ]
     }
     render() {
-        let { languages, frameworks } = this.state;
+        let { langages, frameworks } = this.state;
         return (
             <div className="languagesFrameworks">
                 <ProgressBar
-                    languages={languages}
+                    languages={langages}
                     className="languagesDisplay"
-                    title="languages"
+                    title="langages"
                 />
                 <ProgressBar
                     languages={frameworks}
