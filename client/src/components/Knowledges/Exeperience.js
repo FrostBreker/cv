@@ -10,7 +10,7 @@ const Exeperience = () => {
         <p>
           J'ai travaillé sur l'implantation des clés FIDO2,
           la connexion d'une session windows à partir d'un téléphone
-          et un systeme de portabilités conçu en batch.
+          et sur un système de portabilités conçu en batch.
         </p>
       </div>
 

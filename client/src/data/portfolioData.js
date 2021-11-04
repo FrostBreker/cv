@@ -4,7 +4,7 @@ export const portfolioData = [
     name: 'Pop',
     languages: ['javascript','css', 'react'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt', 'fab fa-react'],
-    info: 'Pop est un réseau social, en dehors de la structure des GAFAM, qui permet de réunir tous les resaux sociaux tels que Soundcloud, Instagram, Facebook, Whatssap. Grâce a cet outils les utilisateurs conservent la propriété de leurs données.',
+    info: 'Pop est un réseau social, en dehors de la structure des GAFAM, qui permet de réunir tous les réseaux sociaux tels que Soundcloud, Instagram, Facebook, WhatsApp. Grâce a cet outils, les utilisateurs conservent la propriété de leurs données.',
     picture: './media/project1.png'
   },
   {
@@ -12,7 +12,7 @@ export const portfolioData = [
     name: 'EcoleDirecte BOT',
     languages: ['javascript', 'discordjs'],
     languagesIcons: ['fab fa-js','fab fa-discord'],
-    info: "Ce BOT discord permet de rêcuperer les notes, devoirs, retards, moyenne générales, etc. a l'aide de simples commandes sur Discord.",
+    info: "Ce BOT discord permet de rêcuperer les notes, devoirs, retards, moyenne générale, etc. a l'aide de simples commandes sur Discord.",
     picture: './media/project2.png'
   },
   {
