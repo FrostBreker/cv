@@ -70,6 +70,10 @@
             text-align: right;
             width: 44%;
           }
+          &:nth-child(5){
+            text-align: right;
+            width: 44%;
+          }
         
           &:nth-child(2):before,
           &:nth-child(3):before {
@@ -81,6 +85,14 @@
             transform: translate(9px, 19px);
           }
           &:nth-child(4):before {
+            content:'';
+            background: rgba(180, 179, 179, 0.507);
+            position: absolute;
+            height: 146px;
+            width: 1px;
+            transform: translate(9px, 19px);
+          }
+          &:nth-child(5):before {
             content:'';
             background: rgba(180, 179, 179, 0.507);
             position: absolute;
@@ -171,6 +183,7 @@
 
           i {
             color: $color-5;
+            margin-right: 5px;
           }
         }
       }
